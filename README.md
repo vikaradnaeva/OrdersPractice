@@ -1,3 +1,4 @@
+[![CI](https://github.com/vikaradnaeva/OrdersPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/vikaradnaeva/OrdersPractice/actions/workflows/ci.yml)
 # Практика: unit-тесты на C# (xUnit и Moq)
 
 Учебное приложение «Заказы». В нём несколько классов, и ваша задача — покрыть их unit-тестами.
