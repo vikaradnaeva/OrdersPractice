@@ -3,8 +3,8 @@ namespace Orders.Services;
 /// <summary>Расчёт скидки на заказ.</summary>
 public class DiscountCalculator
 {
-    public const decimal Threshold = 1000m;
-    public const decimal Rate = 0.10m;
+    public static readonly decimal Threshold = 1000m;
+    public static readonly decimal Rate = 0.10m;
 
     public decimal Calculate(decimal total)
     {
